@@ -107,7 +107,7 @@ nav {
 .main .right img {
     width: 80%;
     animation-name: bouncing;
-    animation-duration: 2s;
+    animation-duration: 2.5s;
     animation-iteration-count: infinite;
     animation-direction: alternate;
     animation-timing-function: ease-in-out;
